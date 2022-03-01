@@ -26,3 +26,6 @@ Du möchtest für ein Autohaus eine Datenbank anlegen, mit der die Mitarbeiter e
 4. `Nur Dieselbetrieben`, `mindestens 100 PS`, `Preis bis 13.500 EU` und `nur Automatik`
 5. `Schadstoffklasse Euro6` und `Kilometerstand nicht über 50.000 Kilometer`
 6. `Schadstoffklasse ab Euro5` und `Verbrauch (kombiniert) nicht über 4,6l/100km`
+
+## SQL in a nutshell
+https://www.w3schools.com/sql/
